@@ -1,0 +1,6 @@
+Parameter;par
+Infected farms (IHs);new_ihs
+Cullings (farm level);new_culls_done
+Disposals (farm level);new_disp_done
+Surveillance visits;new_surv_done
+Vaccinated farms;new_vacc_done

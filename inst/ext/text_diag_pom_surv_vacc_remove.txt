@@ -1,0 +1,1 @@
+In the case of vaccinate-and-remove strategies (i.e. vaccinate to salvage, vaccinate to waste), farms in the vaccination zones (=vaccinated holdings) are not sampled.

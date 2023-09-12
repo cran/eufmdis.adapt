@@ -1,0 +1,30 @@
+Parameter;par
+Start of the post-outbreak surveillance program;postsurv_start
+End of the post-outbreak surveillance program;postsurv_end
+End of post-outbreak management;postmgmt_end
+Number of clusters surveyed;postsurv_clusters
+Number of herds clinically examined;postsurv_clin_insp_herds
+Number of animals clinically examined;postsurv_clin_insp_animals
+Number of true positive herds detected (clinical inspections);postsurv_clin_insp_herds_t
+Number of false positive herds detected (clinical inspections);postsurv_clin_insp_herds_f
+Number of true negative herds detected (clinical inspections);postsurv_clin_insp_herds_t_1
+Number of false negative herds detected (clinical inspections);postsurv_clin_insp_herds_f_1
+Number non-vaccinated herds tested;postsurv_non_vacc_herds_tested
+Total samples collected (non-vaccinated);postsurv_non_vacc_samples
+Total tests performed (non-vaccinated);postsurv_non_vacc_tests
+Number of true positive herds detected (non-vaccinated);postsurv_non_vacc_herds_t
+Number of false positive herds detected (non-vaccinated);postsurv_non_vacc_herds_f
+Number of true negative herds detected (non-vaccinated);postsurv_non_vacc_herds_t_1
+Number of false negative herds detected (non-vaccinated);postsurv_non_vacc_herds_f_1
+Number of vaccinated herds tested;postsurv_vacc_herds_tested
+Total samples collected (vaccinated);postsurv_vacc_samples
+Total tests performed (vaccinated);postsurv_vacc_tests
+Number of true positive herds detected (vaccinated);postsurv_vacc_herds_t
+Number of false positive herds detected (vaccinated);postsurv_vacc_herds_f
+Number of true negative herds detected (vaccinated);postsurv_vacc_herds_t_1
+Number of false negative herds detected (vaccinated);postsurv_vacc_herds_f_1
+Number of true positive farms detected in post outbreak surveillance;postsurv_farms_t
+Number of false positive farms detected in post outbreak surveillance;postsurv_farms_f
+Number of true negative farms detected in post outbreak surveillance;postsurv_farms_t_1
+Number of false negative farms detected in post outbreak surveillance;postsurv_farms_f_1
+Number of vaccinated animals culled in post outbreak management;postmgmt_vacc_animals_culled

@@ -1,0 +1,21 @@
+Parameter;par
+Database name;database_name
+Scenario name;scenario_name
+Number of scenario runs;scenario_num_runs
+Max length of Scenario;scenario_max_length
+Seed mode;seed_mode
+First IP detection mode;first_ip_detection_mode
+Vaccination enabled;vaccination_enabled
+Direct spread enabled;direct_spread_enabled
+Indirect spread enabled;indirect_spread_enabled
+Local spread enabled;local_spread_enabled
+Airborne spread enabled;airborne_spread_enabled
+Saleyard spread enabled;saleyard_spread_enabled
+Diffusion spread enabled;diffusion_spread_enabled
+Jump spread enabled;jump_spread_enabled
+Control measures enabled;control_measures_enabled
+Movement restrictions enabled;movement_restrictions_enabled
+IP operations enabled;ip_operations_enabled
+Surveillance enabled;surveillance_enabled
+Resources enabled;resources_enabled
+SP reporting enabled;sp_reporting_enabled

@@ -1,0 +1,7 @@
+When using a vaccinate to retain-strategy, farms in the vaccination zones (=vaccinated farms) are sampled according to the following scheme:
+
+<ul>
+  <li>Bulk milk samples are taken from each dairy farm (<strong>parameter a</strong>).</li>
+  <li>For cattle and small ruminants, each animal is sampled.</li>
+  <li>For pig herds, the number of animals sampled within each holding allows the detection of a minimum prevalence of infected animals with a defined level of confidence (<strong>parameters d and e</strong>).</li>
+</ul>

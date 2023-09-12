@@ -1,0 +1,7 @@
+Parameter;par
+Maximum number of farms in protection zones at any time;num_pzhs
+Maximum number of farms in surveillance zones at any time;num_szhs
+Number of infected farms (IHs);ihs
+Number of culled farms;farms_culled
+Number of culled animals;animals_culled
+Number of vaccinated farms (VHs);vhs

@@ -1,0 +1,10 @@
+Parameter;par
+Control duration (days);control_duration
+Number of infected farms (IHs);ihs
+Number of culled animals;total_animals_culled
+Total number of farms in protection zones;pzhs
+Total number of farms in surveillance zones;szhs
+Number of vaccinated farms (VHs);vhs
+Number of vaccinated cattle;cattle_vacc
+Number of vaccinated pigs;pigs_vacc
+Number of vaccinated sheep;sheep_vacc

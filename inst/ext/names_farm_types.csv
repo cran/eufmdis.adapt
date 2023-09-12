@@ -1,0 +1,32 @@
+Parameter;par;cattle;dairy;pigs;small_rum
+Large commercial dairy farm;large_commercial_dairy;x;x;;
+Large commercial beef farm;large_commercial_beef;x;;;
+Small commercial beef farm;small_commercial_beef;x;;;
+Commercial buffalo farm;commercial_buffalo;x;;;
+Commercial small ruminant farm;commercial_small_ruminants;;;;x
+Large scale commercial fattening pig farm;large_scale_commercial_fattening_pigs;;;x;
+Large scale commercial breeding pig farm;large_scale_commercial_breeding_pigs;;;x;
+Small scale commercial pig farm;small_scale_commercial_pig;;;x;
+Backyard farm;backyard;;;;
+Mixed farm;mixed;;;;
+Mixed commercial farm;mixed_commercial_herd;;;;
+Large farrow-to-finish farm;large_commercial_farrow_to_finish;;;x;
+Large commercial dairy farm;large_commercial_dairy_herd;x;x;;
+Large commercial beef farm;large_commercial_beef_herd;x;;;
+Heifer Hotels;heifer_hotels;x;;;
+Mean large cattle farm;mean_large_cattle_herd;x;;;
+Small commercial cattle farm;small_commercial_cattle_herd;x;;;
+Large-scale commercial fattening pig farm;large_scale_commercial_fattening_pig_herd;;;x;
+Large-scale commercial weaner pig farm - non-SPF ;large_scale_commercial_weaner_pig_herd_non_spf;;;x;
+Large-scale commercial mixed pig farm - non-SPF;large_scale_commercial_mixed_pig_herd_non_spf;;;x;
+Large scale commercial breeding pig farm;large_scale_commercial_breeding_pig_herd;;;x;
+Large scale commercial breeding pig farm - SPF;large_scale_commercial_breeding_pig_herd_spf;;;x;
+Backyard farm;backyard_herd;;;;
+Large-scale commercial fattening pig farm - SPF;large_scale_commercial_fattening_pig_herd_spf;;;x;
+Large-scale commercial weaner pig farm - SPF;large_scale_commercial_weaner_pig_herd_spf;;;x;
+Large-scale commercial mixed pig farm - SPF;large_scale_commercial_mixed_pig_herd_spf;;;x;
+Nucleus pig farm;nucleus_pig_herd;;;x;
+Small ruminant - no out;small_ruminant_no_out;;;;x
+Cattle - no out;cattle_no_out;x;;;
+pig - no out;pig_no_out;;;x;
+mixed holding;mixed_holding;;;;

@@ -1,0 +1,10 @@
+Sampling of holdings in the protection and surveillance zones is carried out according to the following scheme:
+
+<ul>
+  <li>Bulk milk samples are taken from each dairy farm (<strong>parameter a</strong>).</li>
+  <li>A subset of small ruminant holdings is sampled so that</li>
+  <ul>
+    <li>the number of holdings sampled allows the detection of a minimum prevalence of infected holdings with a defined level of confidence (<strong>parameters b and c</strong>) and</li>
+    <li>the number of animals sampled within each holding allows the detection of a minimum prevalence of infected animals with a defined level of confidence (<strong>parameters d and e</strong>).</li>
+  </ul>  
+</ul>

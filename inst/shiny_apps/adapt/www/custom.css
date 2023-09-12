@@ -1,0 +1,43 @@
+/*Just for testing*/
+label#slider-label {
+    color: #dba400;
+}
+
+button.dt-button, div.dt-button, a.dt-button, input.dt-button, div button.dt-button {
+    border-radius: 4px;
+	display: inline-block;
+    margin-bottom: 0;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid;
+    background-color: #f4f4f4;
+    color: #444;
+    border-color: #ddd;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;    
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+p.infotext {
+    color: #aaaaaa;
+	margin-top: 1em;
+}
+
+div.download_button {
+    padding: 12px 15px 0px 15px;
+    margin-top: 40px;
+}
+
+.sidebar div.download_button a {
+    color: #000;
+}

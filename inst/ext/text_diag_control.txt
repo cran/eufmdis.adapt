@@ -1,0 +1,19 @@
+Each suspect holding and contact holding is sampled according to the following scheme:
+
+<ul>
+  <li>Bulk milk samples are taken from each dairy farm (<strong>parameter a</strong>).</li>
+  <li>In suspect holdings with symptoms, the following additional samples are taken:</li>
+  <ul>
+    <li>Samples from acute lesions (<strong>parameters b-d</strong>),</li>
+    <li>Blood samples EDTA (<strong>parameter e</strong>),</li>
+    <li>Blood samples serum (<strong>parameter f</strong>).</li>
+  </ul>
+  <li>In suspect holdings without symptoms and in contact holdings, the following additional samples are taken:</li>
+  <ul>
+    <li>Swabs (Nose/pharyngeal swabs or Probang) from a number of animals so that a disease present at a minimum prevalence is detected with a defined level of confidence (<strong>parameters g and h</strong>),</li>
+    <li>Blood samples EDTA, so that a disease present at a minimum prevalence is detected with a defined level of confidence (<strong>parameters g and h</strong>),</li>
+    <li>Blood samples serum, so that a disease present at a minimum prevalence is detected with a defined level of confidence (<strong>parameters g and h</strong>).</li>
+  </ul>
+</ul>
+
+

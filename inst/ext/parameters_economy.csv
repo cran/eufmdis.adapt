@@ -1,0 +1,12 @@
+Parameter;par;par_EU;barchart
+Total costs (EUR);overall_cost;total_cost;
+Surveillance costs (EUR);surveillance;surveillance;x
+Culling costs (EUR);culling;culling;x
+Disposal costs (EUR);disposal;disposal;x
+Disinfection costs (EUR);disinfection;disinfection;x
+Compensation costs (EUR);compensation;compensation;x
+Vaccination costs (EUR);vaccination;vaccination;x
+Control center costs (EUR);control_centre_cost;control_centres;x
+Post management costs (EUR);post_mgmt_total_cost;total_post_mgmt_costs;x
+Loss of trade (EUR);loss_of_trade;loss_of_trade;x
+Days out of market;days_out_of_market;days_out_of_market;

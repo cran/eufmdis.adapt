@@ -1,0 +1,6 @@
+Parameter;par
+Samples of acute lesions;n_acute_lesion
+Nose/pharyngeal swabs or Probang;n_swabs
+Blood samples (EDTA);n_blood_edta
+Blood samples (serum);n_blood_serum
+Bulk milk samples;n_bulk_milk
